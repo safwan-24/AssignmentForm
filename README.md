@@ -1,4 +1,4 @@
-#### Student Management System
+# Student Management System
 
 This project is a basic Windows Forms application for managing student records. It allows users to add, edit, delete, and view student information from an SQL Server database.
 
